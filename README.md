@@ -2,14 +2,16 @@
 
 <br />
 
-I'm a mission-driven Front-End Developer with a desire for creating Responsive, Intuitive & Dynamic user experiences using HTML, CSS, JavaScript, React.js & constantly trying to extend my skills using new technologies. I enjoy turning complex problems into simple, beautiful and intuitive interface designs.
+I'm a mission-driven Front-End Developer with a desire to create Responsive, Intuitive, and Dynamic user experiences using HTML, CSS, Bootstrap, JavaScript, Redux, REST API, GitHub, ReactJS, NodeJS, TypeScript & constantly trying to extend my skills using new technologies. I enjoy turning complex problems into simple, beautiful, and intuitive interface designs.
 
 ### Languages & Tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer"><img align="left" alt="HTML 5" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358622/html.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img align="left" alt="CSS 3" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358652/css.png" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer"><img align="left" alt="HTML" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358622/html.png" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img align="left" alt="CSS" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358652/css.png" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Bootstrap" width="26px" src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img align="left" alt="JavaScript" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358687/javascript.png" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="React" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358718/react.png" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="ReactJS" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358718/react.png" /></a>
 </a>
 
 <br />
