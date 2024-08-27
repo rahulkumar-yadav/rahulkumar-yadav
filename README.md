@@ -2,15 +2,18 @@
 
 <br />
 
-I'm a mission-driven Front-End Developer with a desire for creating Responsive, Intuitive & Dynamic user experiences using HTML, CSS, JavaScript, React.js & constantly trying to extend my skills using new technologies. I enjoy turning complex problems into simple, beautiful and intuitive interface designs.
+I'm a mission-driven Front-End Developer with a passion for creating Responsive, Intuitive & Dynamic user experiences using HTML, CSS, Bootstrap, JavaScript, REST API, GitHub, ReactJS & NodeJS. I specialize in building dynamic user interfaces using ReactJS, integrating REST APIs, and managing version control with GitHub. My skills also extend to responsive design with Bootstrap, all with a commitment to delivering high-quality code. With a proven track record of translating design concepts into functional and intuitive websites, I am committed to staying at the forefront of web development and continually expanding my skills with new technologies.
 
 ### Languages & Tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer"><img align="left" alt="HTML" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358622/html.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img align="left" alt="CSS" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358652/css.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img align="left" alt="JavaScript" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358687/javascript.png" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="ReactJS" width="26px" src="https://res.cloudinary.com/geekysrm/image/upload/v1637358718/react.png" /></a>
-</a>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <br />
 
@@ -31,5 +34,5 @@ I'm a mission-driven Front-End Developer with a desire for creating Responsive, 
  <br /> 
  <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumar-yadav&theme=default&hide_border=true&include_all_commits=true&count_private=false" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar-yadav&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact" /> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumar-yadav&show_icons=true&theme=default&hide_border=true" alt="Rahul's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar-yadav&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact" /> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
