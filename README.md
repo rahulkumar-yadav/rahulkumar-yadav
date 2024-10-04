@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a mission-driven Front-End Developer with a passion for creating Responsive, Intuitive & Dynamic user experiences using HTML, CSS, Bootstrap, JavaScript, REST API, GitHub, ReactJS & NodeJS. I specialize in building dynamic user interfaces using ReactJS, integrating REST APIs, and managing version control with GitHub. My skills also extend to responsive design with Bootstrap, all with a commitment to delivering high-quality code. With a proven track record of translating design concepts into functional and intuitive websites, I am committed to staying at the forefront of web development and continually expanding my skills with new technologies.
+I'm a mission-driven Front-End Developer with a passion for creating Responsive, Intuitive & Dynamic user experiences using HTML, CSS, Bootstrap, JavaScript, Redux, REST API, GitHub, ReactJS & NodeJS. I specialize in building dynamic user interfaces using ReactJS, integrating REST APIs, and managing version control with GitHub. My skills also extend to responsive design with Bootstrap, all with a commitment to delivering high-quality code. With a proven track record of translating design concepts into functional and intuitive websites, I am committed to staying at the forefront of web development and continually expanding my skills with new technologies.
 
 ### Languages & Tools:
 
